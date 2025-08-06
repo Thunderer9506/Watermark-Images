@@ -8,7 +8,7 @@ A minimal Python desktop app to add a digital watermark to images using a simple
 
 - Select and preview a `.jpg` image and it work with other images too
 - Add a digital watermark with one click
-- Saves the result as `watermarked_image.png`
+- Saves the result as `watermarked_image.png` or in the destination you choose
 
 ---
 
@@ -22,7 +22,7 @@ A minimal Python desktop app to add a digital watermark to images using a simple
 
 Install dependencies:
 ```sh
-pip install pillow opencv-python imwatermark
+pip install requirements.txt
 ```
 
 ---
